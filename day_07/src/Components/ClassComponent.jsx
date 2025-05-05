@@ -5,7 +5,7 @@ class ClassComponent extends Component  {
     render(){
         return(
             <div>
-                <h1>Hello bhai log...</h1>
+                <h1>Mo.Mastur Bikanerwala</h1>
             </div>
         )
     }
