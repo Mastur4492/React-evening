@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "prop-types": "^15.8.1"
+    "form": "^0.2.5",
+    "prop-types": "^15.8.1",
+    "react-hook": "^0.0.1",
+    "react-hook-form": "^7.56.2"
   }
 }
