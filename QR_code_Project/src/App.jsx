@@ -1,7 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
-// Pages
 import FormPage from './Pages/FormPage';
 import ConfirmPage from './Pages/ConfirmPage';
 import DataPage from './Pages/DataPage';
